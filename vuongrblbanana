@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thnww/bloxfruit/main/Blox_Fruit/Kaitun_Bananahub.lua"))()
